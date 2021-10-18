@@ -1,0 +1,16 @@
+/* .kotak{
+    background-color: blue;
+    position: static;
+} */
+.kotak2{
+    background-color: blue;
+    position: relative;
+}
+/* .kotak3{
+    background-color: blue;
+    position: fixed;
+}
+.kotak4{
+    background-color: blue;
+    position: absolute;
+} */
